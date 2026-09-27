@@ -1,0 +1,3657 @@
+{
+"sprite/overlayScreens/estimateScreen/000": {
+"text": "Estimate",
+"mode": "text"
+},
+"sprite/overlayScreens/estimateScreen/001": {
+"text": "Cows",
+"mode": "text"
+},
+"sprite/overlayScreens/estimateScreen/002": {
+"text": "Dog",
+"mode": "text"
+},
+"sprite/overlayScreens/estimateScreen/003": {
+"text": "Horse",
+"mode": "text"
+},
+"sprite/overlayScreens/estimateScreen/004": {
+"text": "Chicken",
+"mode": "text"
+},
+"sprite/overlayScreens/estimateScreen/005": {
+"text": "Sheep",
+"mode": "text"
+},
+"sprite/overlayScreens/estimateScreen/007": {
+"text": "Materiel",
+"mode": "text"
+},
+"sprite/overlayScreens/estimateScreen/008": {
+"text": "Fodder",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/002": {
+"text": "Spring",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/003": {
+"text": "Summer",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/004": {
+"text": "Fall",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/005": {
+"text": "Winter",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/006": {
+"text": "Sun",
+"mode": "plate"
+},
+"sprite/overlayScreens/timeUI/007": {
+"text": "Mon",
+"mode": "plate"
+},
+"sprite/overlayScreens/timeUI/008": {
+"text": "Tue",
+"mode": "plate"
+},
+"sprite/overlayScreens/timeUI/009": {
+"text": "Wed",
+"mode": "plate"
+},
+"sprite/overlayScreens/timeUI/010": {
+"text": "Thu",
+"mode": "plate"
+},
+"sprite/overlayScreens/timeUI/011": {
+"text": "Fri",
+"mode": "plate"
+},
+"sprite/overlayScreens/timeUI/012": {
+"text": "Sat",
+"mode": "plate"
+},
+"sprite/overlayScreens/timeUI/013": {
+"text": "0",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/014": {
+"text": "1",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/015": {
+"text": "2",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/016": {
+"text": "3",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/017": {
+"text": "4",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/018": {
+"text": "5",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/019": {
+"text": "6",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/020": {
+"text": "7",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/021": {
+"text": "8",
+"mode": "text"
+},
+"sprite/overlayScreens/timeUI/022": {
+"text": "9",
+"mode": "text"
+},
+"sprite/overlayScreens/money/001": {
+"text": "G",
+"mode": "text"
+},
+"sprite/overlayScreens/money/002": {
+"text": "0",
+"mode": "text"
+},
+"sprite/overlayScreens/money/003": {
+"text": "1",
+"mode": "text"
+},
+"sprite/overlayScreens/money/004": {
+"text": "2",
+"mode": "text"
+},
+"sprite/overlayScreens/money/005": {
+"text": "3",
+"mode": "text"
+},
+"sprite/overlayScreens/money/006": {
+"text": "4",
+"mode": "text"
+},
+"sprite/overlayScreens/money/007": {
+"text": "5",
+"mode": "text"
+},
+"sprite/overlayScreens/money/008": {
+"text": "6",
+"mode": "text"
+},
+"sprite/overlayScreens/money/009": {
+"text": "7",
+"mode": "text"
+},
+"sprite/overlayScreens/money/010": {
+"text": "8",
+"mode": "text"
+},
+"sprite/overlayScreens/money/011": {
+"text": "9",
+"mode": "text"
+},
+"sprite/overlayScreens/loadGameScreen/010": {
+"text": "1",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/loadGameScreen/011": {
+"text": "2",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/loadGameScreen/012": {
+"text": "3",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/loadGameScreen/013": {
+"text": "4",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/overlayScreenNames/000": {
+"text": "Sickle",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/001": {
+"text": "Grass seeds",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/002": {
+"text": "Grass of seeds",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/003": {
+"text": "Feed for Chikens",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/004": {
+"text": "Milker",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/005": {
+"text": "Brush",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/006": {
+"text": "Bottle",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/007": {
+"text": "Shears",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/008": {
+"text": "Ball",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/009": {
+"text": "Fishing rod",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/010": {
+"text": "Feeding bottle",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/011": {
+"text": "Cream of Turnip Stew",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/012": {
+"text": "Tomato cream soup",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/013": {
+"text": "Tomato rice",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/014": {
+"text": "Simple tomato soup",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/015": {
+"text": "Corn fritter",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/016": {
+"text": "Corn pasta",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/017": {
+"text": "Mashed potato",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/018": {
+"text": "Fried potatoes & bacon",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/019": {
+"text": "Twice-cooked turnip greens",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/020": {
+"text": "Garlic potato beef",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/021": {
+"text": "Eggplant with miso paste",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/022": {
+"text": "Rolled cabbage",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/023": {
+"text": "Stuffed omelet",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/024": {
+"text": "Spa-poached egg",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/025": {
+"text": "Handmade butter",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/026": {
+"text": "Mushroom rice",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/027": {
+"text": "Fried char",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/028": {
+"text": "Grilled trout with cheese",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/029": {
+"text": "Char stuffed with mushrooms",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/030": {
+"text": "Steamed clams with wine",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/031": {
+"text": "Miso soup with sprouts",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/032": {
+"text": "Sesame dandelion greens",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/033": {
+"text": "Mushroom salsa",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/034": {
+"text": "Strawberry dog",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/035": {
+"text": "Herb rice cake",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/036": {
+"text": "Bread pudding",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/037": {
+"text": "Herb rice cake",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/038": {
+"text": "Potato pancake",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/039": {
+"text": "Strawberry jam",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/040": {
+"text": "Strawberry champagne",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/041": {
+"text": "Very berry wine",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/042": {
+"text": "Spice tea",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/043": {
+"text": "Hot spicy wine",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/044": {
+"text": "Cinnamon milk tea",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/045": {
+"text": "Turnip & cabbage preserves",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/047": {
+"text": "Hoe",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/048": {
+"text": "Axe",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/049": {
+"text": "Hammer",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/overlayScreenNames/050": {
+"text": "Watering can",
+"mode": "text",
+"ink": [
+92,
+60,
+40
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/rankings/001": {
+"text": "Farm ranking",
+"mode": "text",
+"ink": [
+220,
+20,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/rankings/003": {
+"text": "1st",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/004": {
+"text": "2nd",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/005": {
+"text": "3rd",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/006": {
+"text": "4th",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/007": {
+"text": "5th",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/008": {
+"text": "Farm  Years  No.",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"align": "left"
+},
+"sprite/overlayScreens/rankings/009": {
+"text": "%",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/rankings/019": {
+"text": "Album",
+"mode": "text",
+"align": "center"
+},
+"sprite/overlayScreens/rankings/020": {
+"text": "pages",
+"mode": "text",
+"align": "center"
+},
+"sprite/overlayScreens/rankings/021": {
+"text": "Recipes",
+"mode": "text",
+"align": "center"
+},
+"sprite/overlayScreens/rankings/022": {
+"text": "kinds",
+"mode": "text",
+"align": "center"
+},
+"sprite/overlayScreens/rankings/023": {
+"text": "Home enlarged by",
+"mode": "text",
+"align": "left"
+},
+"sprite/overlayScreens/rankings/024": {
+"text": "%",
+"mode": "text",
+"align": "center"
+},
+"sprite/overlayScreens/rankings/025": {
+"text": "Pasture land",
+"mode": "text",
+"align": "center"
+},
+"sprite/overlayScreens/rankings/026": {
+"text": "blocks",
+"mode": "text",
+"align": "center"
+},
+"sprite/overlayScreens/rankings/027": {
+"text": "Number of crops shipped",
+"mode": "text",
+"align": "left"
+},
+"sprite/overlayScreens/rankings/028": {
+"text": "units",
+"mode": "text",
+"align": "center"
+},
+"sprite/overlayScreens/rankings/029": {
+"text": "Amount of milk shipped",
+"mode": "text",
+"align": "left"
+},
+"sprite/overlayScreens/rankings/030": {
+"text": "bottles",
+"mode": "text",
+"align": "center"
+},
+"sprite/overlayScreens/rankings/031": {
+"text": "Number of eggs shipped",
+"mode": "text",
+"align": "left"
+},
+"sprite/overlayScreens/rankings/032": {
+"text": "eggs",
+"mode": "text",
+"align": "center"
+},
+"sprite/overlayScreens/rankings/033": {
+"text": "Number of fish caught",
+"mode": "text",
+"align": "left"
+},
+"sprite/overlayScreens/rankings/034": {
+"text": "fish",
+"mode": "text",
+"align": "center"
+},
+"sprite/overlayScreens/rankings/035": {
+"text": "Money on hand",
+"mode": "text",
+"align": "left"
+},
+"sprite/overlayScreens/rankings/036": {
+"text": "G",
+"mode": "text",
+"align": "center"
+},
+"sprite/overlayScreens/rankings/037": {
+"text": "0",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/038": {
+"text": "1",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/039": {
+"text": "2",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/040": {
+"text": "3",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/041": {
+"text": "4",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/042": {
+"text": "5",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/043": {
+"text": "6",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/044": {
+"text": "7",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/045": {
+"text": "8",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/046": {
+"text": "9",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/056": {
+"text": "MAX",
+"mode": "plate",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/rankings/057": {
+"text": "MAX",
+"mode": "plate",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/rankings/058": {
+"text": "MAX",
+"mode": "plate",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/rankings/060": {
+"text": "Spring",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/061": {
+"text": "Summer",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/062": {
+"text": "Fall",
+"mode": "text"
+},
+"sprite/overlayScreens/rankings/063": {
+"text": "Winter",
+"mode": "text"
+},
+"sprite/overlayScreens/prizeScreen/000": {
+"text": "Prize",
+"mode": "text",
+"ink": [
+230,
+40,
+80
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/001": {
+"text": "Gifts",
+"mode": "text",
+"ink": [
+220,
+20,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/003": {
+"text": "A lottery 25-29th Winter",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"align": "left"
+},
+"sprite/overlayScreens/prizeScreen/007": {
+"text": "1st prize ..",
+"mode": "text",
+"ink": [
+230,
+30,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/008": {
+"text": "Cushion",
+"mode": "text",
+"ink": [
+230,
+30,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/009": {
+"text": "Tablecloth",
+"mode": "text",
+"ink": [
+230,
+30,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/010": {
+"text": "2nd prize ..",
+"mode": "text",
+"ink": [
+40,
+90,
+240
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/011": {
+"text": "Mag",
+"mode": "text",
+"ink": [
+40,
+90,
+240
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/012": {
+"text": "Bath agent",
+"mode": "text",
+"ink": [
+40,
+90,
+240
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/013": {
+"text": "3rd prize ..",
+"mode": "text",
+"ink": [
+230,
+120,
+20
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/014": {
+"text": "Flower seal",
+"mode": "text",
+"ink": [
+230,
+120,
+20
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/015": {
+"text": "Dish",
+"mode": "text",
+"ink": [
+230,
+120,
+20
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/016": {
+"text": "4th prize ..",
+"mode": "text",
+"ink": [
+90,
+180,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/017": {
+"text": "Seeds of catmint",
+"mode": "text",
+"ink": [
+90,
+180,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/018": {
+"text": "Honey",
+"mode": "text",
+"ink": [
+90,
+180,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/019": {
+"text": [
+"Total medals",
+"Medals cost 50   apiece"
+],
+"mode": "plate",
+"box": [
+6,
+8,
+176,
+29
+],
+"align": "left",
+"ink": [
+120,
+70,
+30
+]
+},
+"sprite/overlayScreens/prizeScreen/020": {
+"text": "Awesome House ........ 3000",
+"mode": "text",
+"ink": [
+230,
+30,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/021": {
+"text": "Cute clock .............. 1000",
+"mode": "text",
+"ink": [
+40,
+90,
+240
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/022": {
+"text": "Materiel 500 piece ...... 500",
+"mode": "text",
+"ink": [
+230,
+120,
+20
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/024": {
+"text": "New Stable .......... 3000",
+"mode": "text",
+"ink": [
+230,
+30,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/025": {
+"text": "Stuffed horse ......... 1000",
+"mode": "text",
+"ink": [
+40,
+90,
+240
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/026": {
+"text": "Sustaining carrot ...... 500",
+"mode": "text",
+"ink": [
+230,
+120,
+20
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/prizeScreen/028": {
+"text": "Pt",
+"mode": "text"
+},
+"sprite/overlayScreens/prizeScreen/029": {
+"text": "G",
+"mode": "text"
+},
+"sprite/overlayScreens/raceBettingUI/001": {
+"text": "odds",
+"mode": "text",
+"ink": [
+200,
+200,
+220
+]
+},
+"sprite/overlayScreens/raceBettingUI/002": {
+"text": "Horse-race",
+"mode": "text",
+"ink": [
+230,
+120,
+20
+]
+},
+"sprite/overlayScreens/raceBettingUI/003": {
+"text": "Dog-race",
+"mode": "text",
+"ink": [
+230,
+120,
+20
+]
+},
+"sprite/overlayScreens/raceBettingUI/004": {
+"text": "Bet to win!",
+"mode": "text",
+"ink": [
+220,
+20,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/005": {
+"text": "\"1R\"",
+"mode": "text",
+"ink": [
+230,
+30,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/006": {
+"text": "\"2R\"",
+"mode": "text",
+"ink": [
+40,
+90,
+240
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/007": {
+"text": "\"3R\"",
+"mode": "text",
+"ink": [
+240,
+190,
+20
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/008": {
+"text": "1",
+"mode": "plate",
+"box": [
+2,
+2,
+13,
+13
+]
+},
+"sprite/overlayScreens/raceBettingUI/011": {
+"text": "2",
+"mode": "plate",
+"box": [
+2,
+2,
+13,
+13
+]
+},
+"sprite/overlayScreens/raceBettingUI/014": {
+"text": "3",
+"mode": "plate",
+"box": [
+2,
+2,
+13,
+13
+]
+},
+"sprite/overlayScreens/raceBettingUI/018": {
+"text": "4",
+"mode": "plate",
+"box": [
+2,
+2,
+13,
+13
+]
+},
+"sprite/overlayScreens/raceBettingUI/020": {
+"text": "5",
+"mode": "plate",
+"box": [
+2,
+2,
+13,
+13
+]
+},
+"sprite/overlayScreens/raceBettingUI/023": {
+"text": "6",
+"mode": "plate",
+"box": [
+2,
+2,
+13,
+13
+]
+},
+"sprite/overlayScreens/raceBettingUI/010": {
+"text": "Result",
+"mode": "text",
+"ink": [
+180,
+190,
+220
+]
+},
+"sprite/overlayScreens/raceBettingUI/013": {
+"text": "G",
+"mode": "text"
+},
+"sprite/overlayScreens/raceBettingUI/016": {
+"text": "Pt",
+"mode": "text"
+},
+"sprite/overlayScreens/raceBettingUI/022": {
+"text": "You got a win",
+"mode": "text",
+"ink": [
+220,
+20,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/025": {
+"text": [
+"1st",
+"2nd",
+"3rd"
+],
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/026": {
+"text": [
+"4th",
+"5th",
+"6th"
+],
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/029": {
+"text": [
+"Get medals",
+"Total medals"
+],
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"align": "center"
+},
+"sprite/overlayScreens/raceBettingUI/030": {
+"text": [
+"Total medals",
+"Medals cost 50   apiece"
+],
+"mode": "plate",
+"box": [
+6,
+8,
+176,
+29
+],
+"align": "left",
+"ink": [
+120,
+70,
+30
+]
+},
+"sprite/overlayScreens/raceBettingUI/041": {
+"text": "0",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/042": {
+"text": "1",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/043": {
+"text": "2",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/044": {
+"text": "3",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/045": {
+"text": "4",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/046": {
+"text": "5",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/047": {
+"text": "6",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/048": {
+"text": "7",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/049": {
+"text": "8",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/raceBettingUI/050": {
+"text": "9",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/calendar/007": {
+"text": "Spring",
+"mode": "text",
+"ink": [
+240,
+150,
+190
+],
+"outline": [
+90,
+170,
+40
+]
+},
+"sprite/overlayScreens/calendar/008": {
+"text": "Summer",
+"mode": "text",
+"ink": [
+240,
+200,
+20
+],
+"outline": [
+40,
+90,
+230
+]
+},
+"sprite/overlayScreens/calendar/009": {
+"text": "Fall",
+"mode": "text",
+"ink": [
+220,
+30,
+20
+],
+"outline": [
+230,
+120,
+40
+]
+},
+"sprite/overlayScreens/calendar/010": {
+"text": "Winter",
+"mode": "text",
+"ink": [
+110,
+70,
+40
+],
+"outline": [
+200,
+210,
+230
+]
+},
+"sprite/overlayScreens/calendar/011": {
+"text": "Sun",
+"mode": "plate",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+200,
+40,
+80
+]
+},
+"sprite/overlayScreens/calendar/012": {
+"text": "Mon  Tue  Wed  Thu  Fri",
+"mode": "plate",
+"ink": [
+255,
+250,
+210
+],
+"outline": [
+110,
+100,
+20
+]
+},
+"sprite/overlayScreens/calendar/013": {
+"text": "Sat",
+"mode": "plate",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+20,
+120,
+130
+]
+},
+"sprite/overlayScreens/calendar/014": {
+"text": "1",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/015": {
+"text": "2",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/016": {
+"text": "3",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/017": {
+"text": "4",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/018": {
+"text": "5",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/019": {
+"text": "6",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/020": {
+"text": "7",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/021": {
+"text": "8",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/022": {
+"text": "9",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/023": {
+"text": "10",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/024": {
+"text": "11",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/025": {
+"text": "12",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/026": {
+"text": "13",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/027": {
+"text": "14",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/028": {
+"text": "15",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/029": {
+"text": "16",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/030": {
+"text": "17",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/031": {
+"text": "18",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/032": {
+"text": "19",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/033": {
+"text": "20",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/034": {
+"text": "21",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/035": {
+"text": "22",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/036": {
+"text": "23",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/037": {
+"text": "24",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/038": {
+"text": "25",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/039": {
+"text": "26",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/040": {
+"text": "27",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/041": {
+"text": "28",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/042": {
+"text": "29",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/043": {
+"text": "30",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+5,
+3,
+26,
+20
+]
+},
+"sprite/overlayScreens/calendar/044": {
+"text": "23/30",
+"mode": "plate",
+"ink": [
+190,
+165,
+20
+],
+"outline": null,
+"box": [
+2,
+3,
+29,
+20
+]
+},
+"sprite/overlayScreens/credits/000": {
+"text": "Staff",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/001": {
+"text": "Character design",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/002": {
+"text": "Matuyama Igusa",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/003": {
+"text": "Development",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/004": {
+"text": "Toy Box",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/005": {
+"text": "Planning & Scenario",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/006": {
+"text": "Miyakosi Setuko",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/007": {
+"text": "Main program",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/008": {
+"text": "Yamatate Tomomi",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/009": {
+"text": "Program",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/010": {
+"text": "Inoue Hiroshi",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/011": {
+"text": "Character graphics",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/012": {
+"text": "Hayakawa Shinichi",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/013": {
+"text": "Ozaki Syunosuke",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/014": {
+"text": "Map graphics",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/015": {
+"text": "Ueda Takashi",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/016": {
+"text": "Nakano Hikaru",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/017": {
+"text": "System graphics",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/018": {
+"text": "Kajimoto Noriaki",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/019": {
+"text": "Composition",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/020": {
+"text": "Tanaka Tuyoshi",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/021": {
+"text": "Sound program",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/022": {
+"text": "Tyaki Sachiko / Mint",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/023": {
+"text": "Sound Coordinater",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/024": {
+"text": "Coco Studio",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/025": {
+"text": "Sound direction",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/026": {
+"text": "Wada Yasuhiro",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/027": {
+"text": "Debug",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/028": {
+"text": "Pale To Win",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/029": {
+"text": "Publicity / Design",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/030": {
+"text": "Masa Saitou",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/031": {
+"text": "Miyagi Miki",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/032": {
+"text": "Promotional help",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/033": {
+"text": "Suenaga Tatuya / Plus Agency",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/034": {
+"text": "Usami Ryo / Shogakukan",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/035": {
+"text": "Special Thanks",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/036": {
+"text": "Ohno Yasuo",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/037": {
+"text": "Isisikawa Mariko",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/038": {
+"text": "Sekine Akinori",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/039": {
+"text": "Mizusawa Junichi",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/040": {
+"text": "Kanazawa Tomio",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/041": {
+"text": "Andou Tuyoshi",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/042": {
+"text": "Original draft & Produce",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/043": {
+"text": "Executive Director",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/044": {
+"text": "Kizu Seiichi",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/045": {
+"text": "Sales & Marketing",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/046": {
+"text": "(C) 1999 Natsume Inc.",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/047": {
+"text": "Victor Interactive Software Inc.",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/048": {
+"text": "(C) 1998 MARUCOME",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/049": {
+"text": "(C) 1998 Victor Interactive Software Inc.",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/050": {
+"text": "And now",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/051": {
+"text": "Special Thanks to:",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/052": {
+"text": "Thank you very much",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/053": {
+"text": "Hiro Maekawa",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/054": {
+"text": "Graham Renn",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/credits/055": {
+"text": "Natsume Inc.",
+"mode": "text",
+"align": "left",
+"outline": [
+30,
+30,
+30
+]
+},
+"sprite/overlayScreens/guidebook/000": {
+"text": "How to use tools",
+"mode": "text",
+"ink": [
+40,
+90,
+240
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/guidebook/001": {
+"text": "Raising crops",
+"mode": "text",
+"ink": [
+100,
+180,
+40
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/guidebook/003": {
+"text": "BACK",
+"mode": "plate",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+200,
+30,
+30
+]
+},
+"sprite/overlayScreens/guidebook/004": {
+"text": "To cultivation",
+"mode": "text",
+"ink": [
+210,
+100,
+20
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/guidebook/002": {
+"text": "1  Reclamation",
+"mode": "text",
+"ink": [
+90,
+70,
+60
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/guidebook/005": {
+"text": "2  To cultivate",
+"mode": "text",
+"ink": [
+90,
+70,
+60
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/guidebook/006": {
+"text": "3  Seeding",
+"mode": "text",
+"ink": [
+90,
+70,
+60
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/guidebook/007": {
+"text": "4  Water the crops",
+"mode": "text",
+"ink": [
+90,
+70,
+60
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/guidebook/008": {
+"text": "5  Harvest",
+"mode": "text",
+"ink": [
+90,
+70,
+60
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/guidebook/009": {
+"text": "1  Chicken",
+"mode": "text",
+"ink": [
+90,
+70,
+60
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/guidebook/010": {
+"text": "2  Cow",
+"mode": "text",
+"ink": [
+90,
+70,
+60
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/guidebook/011": {
+"text": "3  Sheep",
+"mode": "text",
+"ink": [
+90,
+70,
+60
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/guidebook/012": {
+"text": "4  Horse",
+"mode": "text",
+"ink": [
+90,
+70,
+60
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/guidebook/013": {
+"text": "5  Dog",
+"mode": "text",
+"ink": [
+90,
+70,
+60
+],
+"outline": null,
+"align": "left"
+},
+"sprite/overlayScreens/dialogueButtonIcons/001": {
+"text": "4",
+"mode": "plate",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+60,
+40,
+0
+]
+},
+"sprite/overlayScreens/dialogueButtonIcons/002": {
+"text": "4",
+"mode": "plate",
+"ink": [
+230,
+30,
+30
+],
+"outline": [
+60,
+40,
+0
+]
+},
+"sprite/overlayScreens/dialogueButtonIcons/003": {
+"text": "2",
+"mode": "plate",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+60,
+40,
+0
+]
+},
+"sprite/overlayScreens/dialogueButtonIcons/004": {
+"text": "2",
+"mode": "plate",
+"ink": [
+230,
+30,
+30
+],
+"outline": [
+60,
+40,
+0
+]
+},
+"sprite/overlayScreens/dialogueButtonIcons/005": {
+"text": "1",
+"mode": "plate",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+60,
+40,
+0
+]
+},
+"sprite/overlayScreens/dialogueButtonIcons/006": {
+"text": "1",
+"mode": "plate",
+"ink": [
+230,
+30,
+30
+],
+"outline": [
+60,
+40,
+0
+]
+},
+"sprite/overlayScreens/dialogueButtonIcons/007": {
+"text": "3",
+"mode": "plate",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+60,
+40,
+0
+]
+},
+"sprite/overlayScreens/dialogueButtonIcons/008": {
+"text": "3",
+"mode": "plate",
+"ink": [
+230,
+30,
+30
+],
+"outline": [
+60,
+40,
+0
+]
+},
+"sprite/overlayScreens/dialogueButtonIcons/017": {
+"text": "OK!",
+"mode": "plate",
+"ink": [
+230,
+30,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/dialogueButtonIcons/024": {
+"text": "A",
+"mode": "plate"
+},
+"sprite/overlayScreens/dialogueButtonIcons/025": {
+"text": "A",
+"mode": "plate"
+},
+"sprite/overlayScreens/controllerIcons/003": {
+"text": "A",
+"mode": "plate"
+},
+"sprite/overlayScreens/controllerIcons/004": {
+"text": "A",
+"mode": "plate"
+},
+"sprite/overlayScreens/controllerIcons/005": {
+"text": "B",
+"mode": "plate"
+},
+"sprite/overlayScreens/controllerIcons/006": {
+"text": "B",
+"mode": "plate"
+},
+"sprite/overlayScreens/shopIcons/019": {
+"text": "Buy it",
+"mode": "plate"
+},
+"sprite/overlayScreens/shopIcons/042": {
+"text": "Not buy it",
+"mode": "plate"
+},
+"sprite/overlayScreens/shopIcons/048": {
+"text": "0",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+200,
+40,
+40
+]
+},
+"sprite/overlayScreens/shopIcons/049": {
+"text": "1",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+200,
+40,
+40
+]
+},
+"sprite/overlayScreens/shopIcons/050": {
+"text": "2",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+200,
+40,
+40
+]
+},
+"sprite/overlayScreens/shopIcons/051": {
+"text": "3",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+200,
+40,
+40
+]
+},
+"sprite/overlayScreens/shopIcons/052": {
+"text": "4",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+200,
+40,
+40
+]
+},
+"sprite/overlayScreens/shopIcons/053": {
+"text": "5",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+200,
+40,
+40
+]
+},
+"sprite/overlayScreens/shopIcons/054": {
+"text": "6",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+200,
+40,
+40
+]
+},
+"sprite/overlayScreens/shopIcons/055": {
+"text": "7",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+200,
+40,
+40
+]
+},
+"sprite/overlayScreens/shopIcons/056": {
+"text": "8",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+200,
+40,
+40
+]
+},
+"sprite/overlayScreens/shopIcons/057": {
+"text": "9",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+],
+"outline": [
+200,
+40,
+40
+]
+},
+"sprite/overlayScreens/namingScreen1/002": {
+"text": "Name",
+"mode": "text",
+"ink": [
+100,
+190,
+40
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/namingScreen1/003": {
+"text": "Birthday",
+"mode": "text",
+"ink": [
+100,
+190,
+40
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/inventoryScreen/003": {
+"text": "Tool",
+"mode": "text",
+"ink": [
+80,
+170,
+40
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/inventoryScreen/004": {
+"text": "Toolbox",
+"mode": "text",
+"ink": [
+80,
+170,
+40
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/inventoryScreen/005": {
+"text": [
+"Belong-",
+"ings"
+],
+"mode": "text",
+"ink": [
+40,
+60,
+230
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/inventoryScreen/006": {
+"text": "Freezer",
+"mode": "text",
+"ink": [
+40,
+60,
+230
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/inventoryScreen/007": {
+"text": "Rucksack",
+"mode": "text",
+"ink": [
+200,
+100,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/inventoryScreen/008": {
+"text": "Cabinet",
+"mode": "text",
+"ink": [
+220,
+30,
+30
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/inventoryScreen/009": {
+"text": [
+"Flower shop  Lilia",
+"1  2  3  4  5",
+"6  7  8  9  10"
+],
+"mode": "plate",
+"ink": [
+220,
+110,
+140
+],
+"outline": null
+},
+"sprite/overlayScreens/inventoryScreen/010": {
+"text": [
+"BAKERY SHOP  HANANOME",
+"1  2  3  4  5",
+"6  7  8  9  10"
+],
+"mode": "plate",
+"ink": [
+20,
+170,
+180
+],
+"outline": null
+},
+"sprite/overlayScreens/houseExtensionSelection/000": {
+"text": "Annex & Extension",
+"mode": "text",
+"ink": [
+90,
+180,
+40
+],
+"outline": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/houseExtensionSelection/001": {
+"text": [
+"Kitchen ....... 5000   (450       )",
+"Bathroom ..... 3000   (300       )",
+"Stairway ...... 2000   (250       )",
+"Greenhouse . 30000   (580       )",
+"Log-terrace .. 7000   (350       )",
+"Baby-bed ...... 1000   (150       )"
+],
+"mode": "text",
+"ink": [
+250,
+235,
+215
+],
+"outline": [
+110,
+70,
+40
+],
+"align": "left"
+},
+"sprite/overlayScreens/houseExtensionSelection/002": {
+"text": "piece",
+"mode": "text",
+"ink": [
+240,
+190,
+140
+]
+},
+"sprite/overlayScreens/houseExtensionSelection/003": {
+"text": "G",
+"mode": "text"
+},
+"sprite/overlayScreens/bulletNumeral/001": {
+"text": "0",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/bulletNumeral/002": {
+"text": "1",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/bulletNumeral/003": {
+"text": "2",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/bulletNumeral/004": {
+"text": "3",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/bulletNumeral/005": {
+"text": "4",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/bulletNumeral/006": {
+"text": "5",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/bulletNumeral/007": {
+"text": "6",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/bulletNumeral/008": {
+"text": "7",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/bulletNumeral/009": {
+"text": "8",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/bulletNumeral/010": {
+"text": "9",
+"mode": "text",
+"ink": [
+255,
+255,
+255
+]
+},
+"sprite/overlayScreens/holdableItems/023": {
+"text": "S",
+"mode": "plate",
+"ink": [
+200,
+50,
+30
+],
+"outline": null,
+"box": [
+4,
+9,
+11,
+16
+]
+},
+"sprite/overlayScreens/holdableItems/024": {
+"text": "M",
+"mode": "plate",
+"ink": [
+200,
+50,
+30
+],
+"outline": null,
+"box": [
+7,
+9,
+17,
+17
+]
+},
+"sprite/overlayScreens/holdableItems/025": {
+"text": "L",
+"mode": "plate",
+"ink": [
+200,
+50,
+30
+],
+"outline": null,
+"box": [
+11,
+8,
+21,
+17
+]
+},
+"sprite/overlayScreens/holdableItems/162": {
+"text": "!",
+"mode": "plate",
+"ink": [
+20,
+20,
+20
+],
+"outline": null,
+"box": [
+10,
+4,
+21,
+20
+]
+},
+"sprite/overlayScreens/holdableItems/321": {
+"text": "!",
+"mode": "plate",
+"ink": [
+20,
+20,
+20
+],
+"outline": null,
+"box": [
+10,
+4,
+21,
+20
+]
+},
+"sprite/overlayScreens/holdableItems/322": {
+"text": "!",
+"mode": "plate",
+"ink": [
+20,
+20,
+20
+],
+"outline": null,
+"box": [
+10,
+4,
+21,
+20
+]
+},
+"sprite/overlayScreens/holdableItems/323": {
+"text": "?",
+"mode": "plate",
+"ink": [
+20,
+20,
+20
+],
+"outline": null,
+"box": [
+10,
+4,
+21,
+20
+]
+},
+"sprite/overlayScreens/holdableItems/324": {
+"text": "?",
+"mode": "plate",
+"ink": [
+20,
+20,
+20
+],
+"outline": null,
+"box": [
+10,
+4,
+21,
+20
+]
+},
+"sprite/overlayScreens/holdableItems/325": {
+"text": "?",
+"mode": "plate",
+"ink": [
+20,
+20,
+20
+],
+"outline": null,
+"box": [
+10,
+4,
+21,
+20
+]
+}
+}

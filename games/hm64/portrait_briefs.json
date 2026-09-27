@@ -1,0 +1,2134 @@
+{
+ "_doc": "Our own portrait descriptions (see portraits.py). Character keys: colours and face layout; frames: who + expression.",
+ "characters": {
+  "elli": {
+   "hair": [
+    150,
+    96,
+    48
+   ],
+   "skin": [
+    250,
+    210,
+    164
+   ],
+   "iris": [
+    150,
+    92,
+    40
+   ],
+   "face": [
+    0.47,
+    0.67,
+    0.22,
+    0.24
+   ],
+   "eyes_at": [
+    [
+     0.38,
+     0.64
+    ],
+    [
+     0.59,
+     0.63
+    ]
+   ],
+   "eye_r": [
+    0.07,
+    0.085
+   ],
+   "mouth_at": [
+    0.45,
+    0.83
+   ],
+   "fringe": 0.5,
+   "bangs": 3
+  },
+  "maria": {
+   "hair": [
+    44,
+    34,
+    48
+   ],
+   "skin": [
+    250,
+    212,
+    168
+   ],
+   "iris": [
+    60,
+    60,
+    90
+   ],
+   "face": [
+    0.48,
+    0.67,
+    0.22,
+    0.23
+   ],
+   "eyes_at": [
+    [
+     0.37,
+     0.63
+    ],
+    [
+     0.59,
+     0.62
+    ]
+   ],
+   "eye_r": [
+    0.065,
+    0.075
+   ],
+   "mouth_at": [
+    0.46,
+    0.83
+   ],
+   "fringe": 0.52,
+   "bangs": 4,
+   "glasses": [
+    70,
+    70,
+    96
+   ]
+  },
+  "popuri": {
+   "hair": [
+    244,
+    150,
+    190
+   ],
+   "skin": [
+    252,
+    214,
+    176
+   ],
+   "iris": [
+    220,
+    40,
+    120
+   ],
+   "face": [
+    0.5,
+    0.68,
+    0.23,
+    0.24
+   ],
+   "eyes_at": [
+    [
+     0.39,
+     0.65
+    ],
+    [
+     0.62,
+     0.65
+    ]
+   ],
+   "eye_r": [
+    0.075,
+    0.09
+   ],
+   "mouth_at": [
+    0.5,
+    0.85
+   ],
+   "fringe": 0.52,
+   "bangs": 4,
+   "extra": [
+    {
+     "line": [
+      [
+       0.24,
+       0.36
+      ],
+      [
+       0.4,
+       0.22
+      ],
+      [
+       0.6,
+       0.22
+      ],
+      [
+       0.76,
+       0.36
+      ]
+     ],
+     "w": 0.03,
+     "c": [
+      70,
+      210,
+      90
+     ]
+    }
+   ]
+  },
+  "karen": {
+   "hair": [
+    228,
+    184,
+    96
+   ],
+   "skin": [
+    250,
+    208,
+    160
+   ],
+   "iris": [
+    40,
+    170,
+    60
+   ],
+   "face": [
+    0.45,
+    0.66,
+    0.22,
+    0.24
+   ],
+   "eyes_at": [
+    [
+     0.34,
+     0.62
+    ],
+    [
+     0.56,
+     0.61
+    ]
+   ],
+   "eye_r": [
+    0.07,
+    0.08
+   ],
+   "mouth_at": [
+    0.43,
+    0.82
+   ],
+   "fringe": 0.5,
+   "bangs": 3
+  },
+  "ann": {
+   "hair": [
+    236,
+    150,
+    48
+   ],
+   "skin": [
+    252,
+    210,
+    164
+   ],
+   "iris": [
+    40,
+    110,
+    230
+   ],
+   "face": [
+    0.46,
+    0.67,
+    0.22,
+    0.24
+   ],
+   "eyes_at": [
+    [
+     0.35,
+     0.63
+    ],
+    [
+     0.57,
+     0.63
+    ]
+   ],
+   "eye_r": [
+    0.07,
+    0.09
+   ],
+   "mouth_at": [
+    0.44,
+    0.84
+   ],
+   "fringe": 0.5,
+   "bangs": 3,
+   "extra": [
+    {
+     "e": [
+      0.7,
+      0.2,
+      0.1,
+      0.07
+     ],
+     "c": [
+      250,
+      250,
+      250
+     ]
+    },
+    {
+     "e": [
+      0.86,
+      0.26,
+      0.08,
+      0.06
+     ],
+     "c": [
+      250,
+      250,
+      250
+     ]
+    }
+   ]
+  },
+  "baby": {
+   "hair": [
+    120,
+    190,
+    230
+   ],
+   "skin": [
+    252,
+    214,
+    176
+   ],
+   "iris": [
+    30,
+    30,
+    30
+   ],
+   "face": [
+    0.46,
+    0.7,
+    0.26,
+    0.24
+   ],
+   "eyes_at": [
+    [
+     0.33,
+     0.66
+    ],
+    [
+     0.55,
+     0.66
+    ]
+   ],
+   "eye_r": [
+    0.05,
+    0.06
+   ],
+   "mouth_at": [
+    0.45,
+    0.83
+   ],
+   "fringe": 0.48,
+   "bangs": 2,
+   "hat": [
+    [
+     120,
+     190,
+     230
+    ],
+    0.46
+   ]
+  },
+  "jeff": {
+   "hair": [
+    150,
+    100,
+    56
+   ],
+   "iris": [
+    70,
+    50,
+    40
+   ],
+   "face": [
+    0.5,
+    0.66,
+    0.24,
+    0.24
+   ],
+   "fringe": 0.47,
+   "male": true,
+   "glasses": [
+    60,
+    50,
+    40
+   ]
+  },
+  "mayor": {
+   "hair": [
+    150,
+    110,
+    80
+   ],
+   "iris": [
+    40,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.64,
+    0.25,
+    0.25
+   ],
+   "male": true,
+   "hat": [
+    [
+     220,
+     40,
+     40
+    ],
+    0.33
+   ],
+   "mustache": [
+    170,
+    130,
+    90
+   ]
+  },
+  "curly": {
+   "hair": [
+    44,
+    34,
+    40
+   ],
+   "iris": [
+    70,
+    40,
+    30
+   ],
+   "face": [
+    0.47,
+    0.63,
+    0.21,
+    0.24
+   ],
+   "fringe": 0.48
+  },
+  "cliff": {
+   "hair": [
+    150,
+    100,
+    60
+   ],
+   "iris": [
+    90,
+    60,
+    40
+   ],
+   "face": [
+    0.47,
+    0.66,
+    0.22,
+    0.24
+   ],
+   "male": true,
+   "hat": [
+    [
+     190,
+     150,
+     70
+    ],
+    0.38
+   ]
+  },
+  "harris": {
+   "hair": [
+    40,
+    36,
+    40
+   ],
+   "iris": [
+    30,
+    30,
+    40
+   ],
+   "face": [
+    0.52,
+    0.66,
+    0.24,
+    0.26
+   ],
+   "male": true,
+   "hat": [
+    [
+     60,
+     80,
+     220
+    ],
+    0.38
+   ]
+  },
+  "duke": {
+   "hair": [
+    34,
+    30,
+    34
+   ],
+   "iris": [
+    30,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.66,
+    0.23,
+    0.25
+   ],
+   "male": true,
+   "mustache": [
+    40,
+    30,
+    30
+   ],
+   "fringe": 0.44
+  },
+  "kai": {
+   "hair": [
+    60,
+    40,
+    30
+   ],
+   "skin": [
+    210,
+    150,
+    100
+   ],
+   "iris": [
+    40,
+    30,
+    20
+   ],
+   "face": [
+    0.5,
+    0.67,
+    0.22,
+    0.24
+   ],
+   "male": true,
+   "hat": [
+    [
+     160,
+     70,
+     170
+    ],
+    0.42
+   ]
+  },
+  "blond": {
+   "hair": [
+    222,
+    190,
+    100
+   ],
+   "iris": [
+    50,
+    70,
+    220
+   ],
+   "face": [
+    0.5,
+    0.67,
+    0.22,
+    0.23
+   ],
+   "male": true,
+   "fringe": 0.55,
+   "bangs": 5
+  },
+  "rick": {
+   "hair": [
+    230,
+    120,
+    50
+   ],
+   "iris": [
+    50,
+    90,
+    200
+   ],
+   "face": [
+    0.48,
+    0.66,
+    0.22,
+    0.24
+   ],
+   "male": true,
+   "glasses": [
+    80,
+    80,
+    90
+   ],
+   "fringe": 0.5
+  },
+  "lillia": {
+   "hair": [
+    240,
+    130,
+    180
+   ],
+   "iris": [
+    200,
+    60,
+    120
+   ],
+   "face": [
+    0.45,
+    0.64,
+    0.21,
+    0.24
+   ],
+   "fringe": 0.48
+  },
+  "doug": {
+   "hair": [
+    130,
+    80,
+    40
+   ],
+   "iris": [
+    40,
+    30,
+    20
+   ],
+   "face": [
+    0.5,
+    0.64,
+    0.24,
+    0.26
+   ],
+   "male": true,
+   "beard": [
+    120,
+    74,
+    38
+   ],
+   "fringe": 0.45
+  },
+  "sasha": {
+   "hair": [
+    196,
+    156,
+    96
+   ],
+   "iris": [
+    40,
+    160,
+    60
+   ],
+   "face": [
+    0.44,
+    0.65,
+    0.21,
+    0.24
+   ],
+   "fringe": 0.48
+  },
+  "basil": {
+   "hair": [
+    220,
+    110,
+    40
+   ],
+   "iris": [
+    40,
+    30,
+    20
+   ],
+   "face": [
+    0.5,
+    0.65,
+    0.23,
+    0.25
+   ],
+   "male": true,
+   "mustache": [
+    200,
+    100,
+    40
+   ],
+   "fringe": 0.46
+  },
+  "capboy": {
+   "hair": [
+    220,
+    110,
+    50
+   ],
+   "iris": [
+    40,
+    60,
+    160
+   ],
+   "face": [
+    0.52,
+    0.68,
+    0.22,
+    0.22
+   ],
+   "male": true,
+   "hat": [
+    [
+     50,
+     90,
+     220
+    ],
+    0.45
+   ]
+  },
+  "kidbrown": {
+   "hair": [
+    140,
+    90,
+    50
+   ],
+   "iris": [
+    80,
+    50,
+    30
+   ],
+   "face": [
+    0.5,
+    0.66,
+    0.24,
+    0.24
+   ],
+   "fringe": 0.45,
+   "male": true
+  },
+  "kidblack": {
+   "hair": [
+    40,
+    36,
+    40
+   ],
+   "iris": [
+    30,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.62,
+    0.22,
+    0.22
+   ],
+   "fringe": 0.5,
+   "male": true
+  },
+  "girlkid": {
+   "hair": [
+    44,
+    30,
+    30
+   ],
+   "iris": [
+    40,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.64,
+    0.22,
+    0.22
+   ],
+   "fringe": 0.52
+  },
+  "fatman": {
+   "hair": [
+    40,
+    36,
+    40
+   ],
+   "iris": [
+    30,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.64,
+    0.3,
+    0.28
+   ],
+   "male": true,
+   "hat": [
+    [
+     80,
+     80,
+     90
+    ],
+    0.3
+   ],
+   "glasses": [
+    200,
+    200,
+    210
+   ]
+  },
+  "oldred": {
+   "hair": [
+    200,
+    200,
+    200
+   ],
+   "iris": [
+    40,
+    30,
+    30
+   ],
+   "face": [
+    0.48,
+    0.64,
+    0.25,
+    0.26
+   ],
+   "male": true,
+   "hat": [
+    [
+     200,
+     50,
+     40
+    ],
+    0.38
+   ],
+   "mustache": [
+    230,
+    230,
+    230
+   ]
+  },
+  "oldslick": {
+   "hair": [
+    160,
+    160,
+    170
+   ],
+   "iris": [
+    40,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.65,
+    0.23,
+    0.25
+   ],
+   "male": true,
+   "fringe": 0.46
+  },
+  "granny": {
+   "hair": [
+    236,
+    236,
+    240
+   ],
+   "iris": [
+    60,
+    50,
+    50
+   ],
+   "face": [
+    0.5,
+    0.64,
+    0.25,
+    0.26
+   ],
+   "glasses": [
+    200,
+    200,
+    210
+   ],
+   "fringe": 0.44
+  },
+  "lilacgran": {
+   "hair": [
+    210,
+    205,
+    220
+   ],
+   "iris": [
+    60,
+    50,
+    50
+   ],
+   "face": [
+    0.5,
+    0.64,
+    0.24,
+    0.27
+   ],
+   "fringe": 0.44
+  },
+  "headband": {
+   "hair": [
+    170,
+    170,
+    170
+   ],
+   "iris": [
+    40,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.66,
+    0.25,
+    0.25
+   ],
+   "male": true,
+   "hat": [
+    [
+     235,
+     235,
+     235
+    ],
+    0.4
+   ]
+  },
+  "cook": {
+   "hair": [
+    40,
+    36,
+    40
+   ],
+   "iris": [
+    30,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.67,
+    0.22,
+    0.24
+   ],
+   "male": true,
+   "hat": [
+    [
+     50,
+     50,
+     50
+    ],
+    0.38
+   ]
+  },
+  "muscle": {
+   "hair": [
+    140,
+    80,
+    40
+   ],
+   "iris": [
+    40,
+    30,
+    20
+   ],
+   "face": [
+    0.5,
+    0.65,
+    0.26,
+    0.27
+   ],
+   "male": true,
+   "fringe": 0.42
+  },
+  "darkold": {
+   "hair": [
+    176,
+    176,
+    166
+   ],
+   "skin": [
+    150,
+    96,
+    64
+   ],
+   "iris": [
+    30,
+    20,
+    20
+   ],
+   "face": [
+    0.5,
+    0.66,
+    0.24,
+    0.26
+   ],
+   "male": true,
+   "fringe": 0.45
+  },
+  "baldbeard": {
+   "hair": [
+    236,
+    236,
+    236
+   ],
+   "iris": [
+    40,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.6,
+    0.24,
+    0.26
+   ],
+   "male": true,
+   "beard": [
+    236,
+    236,
+    236
+   ],
+   "fringe": 0.36
+  },
+  "bungran": {
+   "hair": [
+    150,
+    150,
+    130
+   ],
+   "iris": [
+    60,
+    50,
+    50
+   ],
+   "face": [
+    0.5,
+    0.64,
+    0.25,
+    0.26
+   ],
+   "fringe": 0.45
+  },
+  "bobgirl": {
+   "hair": [
+    40,
+    36,
+    44
+   ],
+   "iris": [
+    50,
+    40,
+    60
+   ],
+   "face": [
+    0.5,
+    0.66,
+    0.21,
+    0.23
+   ],
+   "fringe": 0.52,
+   "bangs": 5
+  },
+  "bowlkid": {
+   "hair": [
+    170,
+    110,
+    50
+   ],
+   "iris": [
+    60,
+    40,
+    30
+   ],
+   "face": [
+    0.5,
+    0.66,
+    0.23,
+    0.22
+   ],
+   "fringe": 0.52,
+   "bangs": 5
+  },
+  "profile": {
+   "hair": [
+    150,
+    90,
+    50
+   ],
+   "iris": [
+    40,
+    30,
+    20
+   ],
+   "face": [
+    0.45,
+    0.6,
+    0.2,
+    0.26
+   ],
+   "male": true,
+   "fringe": 0.4
+  },
+  "lips": {
+   "hair": [
+    120,
+    60,
+    140
+   ],
+   "iris": [
+    40,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.64,
+    0.3,
+    0.28
+   ],
+   "hat": [
+    [
+     160,
+     60,
+     160
+    ],
+    0.25
+   ]
+  },
+  "shades": {
+   "hair": [
+    30,
+    30,
+    30
+   ],
+   "iris": [
+    30,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.66,
+    0.2,
+    0.24
+   ],
+   "male": true,
+   "hat": [
+    [
+     40,
+     40,
+     44
+    ],
+    0.38
+   ],
+   "sunglasses": [
+    20,
+    20,
+    24
+   ]
+  },
+  "goggles": {
+   "hair": [
+    220,
+    220,
+    220
+   ],
+   "iris": [
+    30,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.62,
+    0.24,
+    0.26
+   ],
+   "male": true,
+   "hat": [
+    [
+     90,
+     130,
+     70
+    ],
+    0.33
+   ],
+   "sunglasses": [
+    150,
+    200,
+    255
+   ],
+   "mustache": [
+    230,
+    230,
+    230
+   ]
+  },
+  "capold": {
+   "hair": [
+    200,
+    200,
+    200
+   ],
+   "iris": [
+    40,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.64,
+    0.25,
+    0.26
+   ],
+   "male": true,
+   "hat": [
+    [
+     160,
+     110,
+     60
+    ],
+    0.35
+   ],
+   "mustache": [
+    235,
+    235,
+    235
+   ]
+  },
+  "biggrey": {
+   "hair": [
+    210,
+    210,
+    210
+   ],
+   "iris": [
+    40,
+    30,
+    30
+   ],
+   "face": [
+    0.5,
+    0.7,
+    0.22,
+    0.22
+   ],
+   "fringe": 0.52
+  },
+  "pompadour": {
+   "hair": [
+    240,
+    190,
+    60
+   ],
+   "iris": [
+    40,
+    30,
+    30
+   ],
+   "face": [
+    0.45,
+    0.64,
+    0.22,
+    0.26
+   ],
+   "male": true,
+   "fringe": 0.42
+  },
+  "blondewoman": {
+   "hair": [
+    240,
+    190,
+    70
+   ],
+   "iris": [
+    40,
+    170,
+    170
+   ],
+   "face": [
+    0.44,
+    0.66,
+    0.21,
+    0.24
+   ],
+   "fringe": 0.48
+  },
+  "redhead": {
+   "hair": [
+    220,
+    90,
+    40
+   ],
+   "iris": [
+    40,
+    100,
+    220
+   ],
+   "face": [
+    0.45,
+    0.66,
+    0.21,
+    0.24
+   ],
+   "fringe": 0.46
+  },
+  "pigtails": {
+   "hair": [
+    180,
+    130,
+    70
+   ],
+   "iris": [
+    110,
+    70,
+    40
+   ],
+   "face": [
+    0.46,
+    0.67,
+    0.21,
+    0.23
+   ],
+   "fringe": 0.5
+  },
+  "beret": {
+   "hair": [
+    170,
+    110,
+    60
+   ],
+   "iris": [
+    110,
+    70,
+    40
+   ],
+   "face": [
+    0.5,
+    0.68,
+    0.22,
+    0.23
+   ],
+   "hat": [
+    [
+     170,
+     50,
+     80
+    ],
+    0.4
+   ]
+  },
+  "kappa": {
+   "hair": [
+    100,
+    170,
+    50
+   ],
+   "skin": [
+    130,
+    200,
+    70
+   ],
+   "iris": [
+    20,
+    20,
+    20
+   ],
+   "face": [
+    0.5,
+    0.6,
+    0.3,
+    0.3
+   ],
+   "fringe": 0.36
+  },
+  "sprite": {
+   "hair": [
+    240,
+    200,
+    60
+   ],
+   "iris": [
+    20,
+    20,
+    20
+   ],
+   "face": [
+    0.48,
+    0.66,
+    0.2,
+    0.2
+   ],
+   "hat": [
+    [
+     220,
+     50,
+     50
+    ],
+    0.45
+   ],
+   "male": true
+  },
+  "greengirl": {
+   "hair": [
+    60,
+    190,
+    80
+   ],
+   "iris": [
+    40,
+    160,
+    60
+   ],
+   "face": [
+    0.48,
+    0.66,
+    0.21,
+    0.23
+   ],
+   "fringe": 0.5
+  },
+  "veil": {
+   "hair": [
+    170,
+    110,
+    60
+   ],
+   "iris": [
+    40,
+    30,
+    20
+   ],
+   "face": [
+    0.5,
+    0.72,
+    0.2,
+    0.2
+   ],
+   "fringe": 0.66,
+   "bangs": 7
+  }
+ },
+ "frames": {
+  "000": {
+   "who": "elli",
+   "eyes": "open",
+   "mouth": "smile",
+   "blush": true
+  },
+  "001": {
+   "who": "elli",
+   "eyes": "open",
+   "mouth": "open"
+  },
+  "002": {
+   "who": "elli",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "003": {
+   "who": "elli",
+   "eyes": "wink",
+   "mouth": "open",
+   "blush": true
+  },
+  "004": {
+   "who": "elli",
+   "eyes": "surprised",
+   "mouth": "o",
+   "tears": true
+  },
+  "005": {
+   "who": "elli",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "006": {
+   "who": "elli",
+   "eyes": "sad",
+   "mouth": "frown"
+  },
+  "007": {
+   "who": "maria",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "008": {
+   "who": "maria",
+   "eyes": "happy",
+   "mouth": "smile",
+   "blush": true
+  },
+  "009": {
+   "who": "maria",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "010": {
+   "who": "maria",
+   "eyes": "open",
+   "mouth": "open"
+  },
+  "011": {
+   "who": "maria",
+   "eyes": "open",
+   "mouth": "smile",
+   "blush": true
+  },
+  "012": {
+   "who": "maria",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "013": {
+   "who": "maria",
+   "eyes": "surprised",
+   "mouth": "o"
+  },
+  "014": {
+   "who": "maria",
+   "eyes": "sad",
+   "mouth": "frown",
+   "tears": true
+  },
+  "015": {
+   "who": "popuri",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "016": {
+   "who": "popuri",
+   "eyes": "angry",
+   "mouth": "frown"
+  },
+  "017": {
+   "who": "popuri",
+   "eyes": "open",
+   "mouth": "open"
+  },
+  "018": {
+   "who": "popuri",
+   "eyes": "sad",
+   "mouth": "frown",
+   "tears": true
+  },
+  "019": {
+   "who": "popuri",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "020": {
+   "who": "popuri",
+   "eyes": "surprised",
+   "mouth": "o",
+   "sweat": true
+  },
+  "021": {
+   "who": "karen",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "022": {
+   "who": "karen",
+   "eyes": "open",
+   "mouth": "open"
+  },
+  "023": {
+   "who": "karen",
+   "eyes": "angry",
+   "mouth": "open"
+  },
+  "024": {
+   "who": "karen",
+   "eyes": "open",
+   "mouth": "pout",
+   "blush": true
+  },
+  "025": {
+   "who": "karen",
+   "eyes": "tired",
+   "mouth": "flat"
+  },
+  "026": {
+   "who": "karen",
+   "eyes": "surprised",
+   "mouth": "o"
+  },
+  "027": {
+   "who": "ann",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "028": {
+   "who": "ann",
+   "eyes": "happy",
+   "mouth": "laugh"
+  },
+  "029": {
+   "who": "ann",
+   "eyes": "angry",
+   "mouth": "open"
+  },
+  "030": {
+   "who": "ann",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "031": {
+   "who": "ann",
+   "eyes": "sad",
+   "mouth": "frown",
+   "tears": true
+  },
+  "032": {
+   "who": "ann",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "033": {
+   "who": "baby",
+   "eyes": "dot",
+   "mouth": "o"
+  },
+  "034": {
+   "who": "baby",
+   "eyes": "happy",
+   "mouth": "open"
+  },
+  "035": {
+   "who": "baby",
+   "eyes": "shut",
+   "mouth": "open",
+   "tears": true
+  },
+  "036": {
+   "who": "baby",
+   "eyes": "dot",
+   "mouth": "o"
+  },
+  "037": {
+   "who": "baby",
+   "eyes": "shut",
+   "mouth": "laugh",
+   "tears": true
+  },
+  "038": {
+   "who": "jeff",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "039": {
+   "who": "jeff",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "040": {
+   "who": "mayor",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "041": {
+   "who": "mayor",
+   "eyes": "wink",
+   "mouth": "grin"
+  },
+  "042": {
+   "who": "curly",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "043": {
+   "who": "curly",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "044": {
+   "who": "cliff",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "060": {
+   "who": "cliff",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "045": {
+   "who": "harris",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "046": {
+   "who": "harris",
+   "eyes": "happy",
+   "mouth": "grin",
+   "blush": true
+  },
+  "047": {
+   "who": "harris",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "048": {
+   "who": "duke",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "049": {
+   "who": "duke",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "050": {
+   "who": "duke",
+   "eyes": "open",
+   "mouth": "open"
+  },
+  "051": {
+   "who": "kai",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "052": {
+   "who": "kai",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "053": {
+   "who": "kai",
+   "eyes": "happy",
+   "mouth": "grin"
+  },
+  "054": {
+   "who": "blond",
+   "eyes": "angry",
+   "mouth": "flat"
+  },
+  "055": {
+   "who": "blond",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "056": {
+   "who": "blond",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "057": {
+   "who": "rick",
+   "eyes": "open",
+   "mouth": "open"
+  },
+  "058": {
+   "who": "rick",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "059": {
+   "who": "rick",
+   "eyes": "angry",
+   "mouth": "frown"
+  },
+  "061": {
+   "who": "lillia",
+   "eyes": "happy",
+   "mouth": "smile"
+  },
+  "062": {
+   "who": "lillia",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "063": {
+   "who": "doug",
+   "eyes": "angry",
+   "mouth": "flat"
+  },
+  "064": {
+   "who": "doug",
+   "eyes": "angry",
+   "mouth": "laugh"
+  },
+  "065": {
+   "who": "sasha",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "066": {
+   "who": "sasha",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "067": {
+   "who": "basil",
+   "eyes": "angry",
+   "mouth": "frown"
+  },
+  "068": {
+   "who": "basil",
+   "eyes": "happy",
+   "mouth": "smile"
+  },
+  "069": {
+   "who": "capboy",
+   "eyes": "angry",
+   "mouth": "flat"
+  },
+  "070": {
+   "who": "capboy",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "140": {
+   "who": "capboy",
+   "eyes": "closed",
+   "mouth": "flat"
+  },
+  "071": {
+   "who": "kidbrown",
+   "eyes": "open",
+   "mouth": "grin"
+  },
+  "072": {
+   "who": "kidbrown",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "073": {
+   "who": "kidbrown",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "074": {
+   "who": "kidblack",
+   "eyes": "open",
+   "mouth": "smile",
+   "blush": true
+  },
+  "075": {
+   "who": "kidblack",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "076": {
+   "who": "kidblack",
+   "eyes": "open",
+   "mouth": "open",
+   "blush": true
+  },
+  "077": {
+   "who": "girlkid",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "078": {
+   "who": "girlkid",
+   "eyes": "open",
+   "mouth": "open"
+  },
+  "079": {
+   "who": "girlkid",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "080": {
+   "who": "fatman",
+   "eyes": "open",
+   "mouth": "open"
+  },
+  "081": {
+   "who": "fatman",
+   "eyes": "angry",
+   "mouth": "frown"
+  },
+  "082": {
+   "who": "fatman",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "083": {
+   "who": "oldred",
+   "eyes": "closed",
+   "mouth": "grin"
+  },
+  "084": {
+   "who": "oldred",
+   "eyes": "closed",
+   "mouth": "flat"
+  },
+  "085": {
+   "who": "oldred",
+   "eyes": "shut",
+   "mouth": "open",
+   "tears": true
+  },
+  "086": {
+   "who": "oldslick",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "087": {
+   "who": "oldslick",
+   "eyes": "sad",
+   "mouth": "frown"
+  },
+  "088": {
+   "who": "granny",
+   "eyes": "closed",
+   "mouth": "smile"
+  },
+  "089": {
+   "who": "granny",
+   "eyes": "closed",
+   "mouth": "flat"
+  },
+  "090": {
+   "who": "lilacgran",
+   "eyes": "happy",
+   "mouth": "laugh"
+  },
+  "091": {
+   "who": "lilacgran",
+   "eyes": "angry",
+   "mouth": "frown"
+  },
+  "092": {
+   "who": "headband",
+   "eyes": "angry",
+   "mouth": "frown"
+  },
+  "093": {
+   "who": "headband",
+   "eyes": "happy",
+   "mouth": "laugh"
+  },
+  "094": {
+   "who": "cook",
+   "eyes": "angry",
+   "mouth": "flat"
+  },
+  "095": {
+   "who": "cook",
+   "eyes": "open",
+   "mouth": "open"
+  },
+  "096": {
+   "who": "muscle",
+   "eyes": "shut",
+   "mouth": "laugh"
+  },
+  "097": {
+   "who": "muscle",
+   "eyes": "open",
+   "mouth": "grin",
+   "sweat": true
+  },
+  "098": {
+   "who": "darkold",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "099": {
+   "who": "darkold",
+   "eyes": "angry",
+   "mouth": "open"
+  },
+  "100": {
+   "who": "darkold",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "101": {
+   "who": "baldbeard",
+   "eyes": "closed",
+   "mouth": "none"
+  },
+  "102": {
+   "who": "baldbeard",
+   "eyes": "wink",
+   "mouth": "none"
+  },
+  "103": {
+   "who": "baldbeard",
+   "eyes": "open",
+   "mouth": "smile",
+   "glasses": [
+    200,
+    200,
+    210
+   ]
+  },
+  "104": {
+   "who": "bungran",
+   "eyes": "happy",
+   "mouth": "smile"
+  },
+  "105": {
+   "who": "bobgirl",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "106": {
+   "who": "bobgirl",
+   "eyes": "sad",
+   "mouth": "flat"
+  },
+  "107": {
+   "who": "bowlkid",
+   "eyes": "happy",
+   "mouth": "smile",
+   "blush": true
+  },
+  "108": {
+   "who": "bowlkid",
+   "eyes": "shut",
+   "mouth": "open",
+   "tears": true
+  },
+  "109": {
+   "who": "bowlkid",
+   "eyes": "closed",
+   "mouth": "flat",
+   "blush": true
+  },
+  "110": {
+   "who": "profile",
+   "eyes": "closed",
+   "mouth": "flat"
+  },
+  "111": {
+   "who": "lips",
+   "eyes": "wink",
+   "mouth": "laugh"
+  },
+  "112": {
+   "who": "shades",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "113": {
+   "who": "shades",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "114": {
+   "who": "goggles",
+   "eyes": "open",
+   "mouth": "flat"
+  },
+  "115": {
+   "who": "goggles",
+   "eyes": "open",
+   "mouth": "open"
+  },
+  "116": {
+   "who": "capold",
+   "eyes": "happy",
+   "mouth": "smile"
+  },
+  "117": {
+   "who": "biggrey",
+   "eyes": "happy",
+   "mouth": "laugh"
+  },
+  "118": {
+   "who": "pompadour",
+   "eyes": "tired",
+   "mouth": "smile"
+  },
+  "119": {
+   "who": "blondewoman",
+   "eyes": "open",
+   "mouth": "open"
+  },
+  "120": {
+   "who": "redhead",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "121": {
+   "who": "pigtails",
+   "eyes": "open",
+   "mouth": "open"
+  },
+  "122": {
+   "who": "beret",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "127": {
+   "who": "kappa",
+   "eyes": "dot",
+   "mouth": "grin"
+  },
+  "128": {
+   "who": "sprite",
+   "eyes": "dot",
+   "mouth": "smile"
+  },
+  "129": {
+   "who": "sprite",
+   "eyes": "wink",
+   "mouth": "smile"
+  },
+  "130": {
+   "who": "greengirl",
+   "eyes": "happy",
+   "mouth": "open"
+  },
+  "131": {
+   "who": "greengirl",
+   "eyes": "open",
+   "mouth": "smile"
+  },
+  "132": {
+   "who": "veil",
+   "eyes": "closed",
+   "mouth": "grin"
+  },
+  "133": {
+   "who": "veil",
+   "eyes": "closed",
+   "mouth": "flat"
+  },
+  "134": {
+   "who": "karen",
+   "eyes": "angry",
+   "mouth": "frown"
+  },
+  "135": {
+   "who": "elli",
+   "eyes": "closed",
+   "mouth": "smile",
+   "blush": true
+  },
+  "136": {
+   "who": "maria",
+   "eyes": "closed",
+   "mouth": "smile",
+   "blush": true
+  },
+  "137": {
+   "who": "popuri",
+   "eyes": "closed",
+   "mouth": "smile",
+   "blush": true
+  },
+  "138": {
+   "who": "karen",
+   "eyes": "closed",
+   "mouth": "smile"
+  },
+  "139": {
+   "who": "ann",
+   "eyes": "closed",
+   "mouth": "smile",
+   "blush": true
+  },
+  "141": {
+   "who": "duke",
+   "eyes": "closed",
+   "mouth": "smile"
+  },
+  "142": {
+   "who": "blond",
+   "eyes": "angry",
+   "mouth": "frown"
+  }
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "_comment": "Our own transcriptions of text drawn inside sprites (ids from spec/textures.json). See labels.py.",
+ "sprite/overlayScreens/bookScreenLabels/000": {
+  "text": "Notebook"
+ },
+ "sprite/overlayScreens/bookScreenLabels/001": {
+  "text": "Recipe"
+ },
+ "sprite/overlayScreens/bookScreenLabels/002": {
+  "text": "Letters"
+ },
+ "sprite/overlayScreens/bookScreenLabels/003": {
+  "text": "Album"
+ },
+ "sprite/overlayScreens/bookScreenLabels/004": {
+  "text": "Tools"
+ },
+ "sprite/overlayScreens/loadGameScreen/000": {
+  "text": "Select a Diary"
+ },
+ "sprite/overlayScreens/loadGameScreen/002": {
+  "text": "MOVE"
+ },
+ "sprite/overlayScreens/loadGameScreen/003": {
+  "text": "DELETE"
+ },
+ "sprite/overlayScreens/loadGameScreen/004": {
+  "text": "Diary",
+  "box": [
+   6,
+   4,
+   28,
+   14
+  ]
+ },
+ "sprite/overlayScreens/loadGameScreen/005": {
+  "text": "Diary",
+  "box": [
+   6,
+   4,
+   28,
+   14
+  ]
+ },
+ "sprite/overlayScreens/loadGameScreen/014": {
+  "text": "Ranking"
+ },
+ "sprite/overlayScreens/loadGameScreen/015": {
+  "text": "Controller Pak data."
+ },
+ "sprite/overlayScreens/loadGameScreen/016": {
+  "text": "DATA",
+  "box": [
+   6,
+   4,
+   40,
+   16
+  ]
+ },
+ "sprite/overlayScreens/loadGameScreen/017": {
+  "text": "DATA",
+  "box": [
+   6,
+   4,
+   40,
+   16
+  ]
+ },
+ "sprite/overlayScreens/loadGameScreen/018": {
+  "text": [
+   "Game will not start",
+   "from Controller Pak data.",
+   "Please copy to the N64 save screen.",
+   "Leave power ON and do not",
+   "remove/reinsert the Controller Pak."
+  ],
+  "align": "left"
+ },
+ "sprite/overlayScreens/titleSprites/000": {
+  "text": [
+   "HARVEST",
+   "MOON",
+   "64"
+  ],
+  "box": [
+   22,
+   10,
+   158,
+   96
+  ],
+  "weight": 1.7,
+  "sizes": [
+   1.25,
+   1.15,
+   0.9
+  ],
+  "ink": [
+   250,
+   240,
+   210
+  ],
+  "outline": [
+   70,
+   40,
+   20
+  ],
+  "plate": "wood"
+ },
+ "sprite/overlayScreens/titleSprites/001": {
+  "text": "(C)1998 MARUCOME/Victor Interactive Software Inc.",
+  "mode": "text"
+ },
+ "sprite/overlayScreens/titleSprites/003": {
+  "text": [
+   "Push the",
+   "START"
+  ],
+  "plate": "wood"
+ },
+ "sprite/overlayScreens/titleSprites/004": {
+  "text": "Play",
+  "plate": "wood"
+ },
+ "sprite/overlayScreens/titleSprites/005": {
+  "text": "How to Play",
+  "plate": "wood"
+ },
+ "sprite/overlayScreens/titleSprites/018": {
+  "text": [
+   "Licensed by Nintendo",
+   "(C)1999 Natsume Inc."
+  ],
+  "mode": "text",
+  "align": "left"
+ },
+ "sprite/overlayScreens/logos/000": {
+  "text": [
+   "NATSUME",
+   "Serious Fun"
+  ],
+  "weight": 1.3
+ },
+ "sprite/overlayScreens/logos/001": {
+  "text": [
+   "TOY BOX",
+   "creative & maniax",
+   "",
+   "Presents"
+  ],
+  "weight": 1.2
+ }
+}
