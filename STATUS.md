@@ -42,8 +42,19 @@
 ## Next (iteration log)
 - Done 04:40: album photos composed from our clean sprites (`photos.py`, `photo_briefs.json`), title sign with wood
   grain, map objects textured by material, UI panels outlined on the outer edge only, thin circled digits. Published.
-- To do: farm gameplay check and a retail-vs-clean dialogue spacing check when the machine is idle (headless runs at
-  4-10 fps under load make scripted timing unreliable).
+- Fixed 05:10 (clean-room hole): 91 palettes the game only selects at runtime (e.g. greyed diary slots) were not in
+  the spec, so their retail colours stayed in the ROM unscanned; 256-entry palette slots used by CI4 frames kept 240
+  retail entries; frame slots kept their padding. Now every palette slot and whole frame slot is regenerated
+  (runtime palettes = our sibling palette shifted to the kept mean colour). `audit.py` checks what is left in sprite
+  assets (only frame/palette headers, offset tables, animation metadata); map texture sections: 24 bytes of tables.
+- Verified 05:50 in game: empty diary slots now clean (runtime palettes), title menu signs "Play"/"How to Play".
+- 06:00 the local dev server (:27641) was stopped by Claude Code (machine critically low on memory); not restarted.
+  Later checks use the live GitHub Pages URL.
+- 07:10 loop stopped: machine at 1.4 GB free / 65% load, so no more headless checks. Everything is published and
+  taint-clean. (Later the same morning the farm walk-out was verified on the live site, see below.)
+- **Verified on the live site (60 fps):** new game -> name entry -> house -> walk out the door onto the farm (dog,
+  doghouse) -> the Mayor's greeting in a dialogue box with our portrait and font. The whole path from boot to farm
+  gameplay works in the browser.
 - Font: circled digits too dense; compare spacing with retail when the machine is idle.
 - Empty diary-slot plates: outline fix is in the tree, goes out with the next build.
 - Voices: HM64 has no voice acting, so no practice pack is needed (only short sfx).
